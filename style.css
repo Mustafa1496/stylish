@@ -5,3 +5,8 @@
 li {
     text-transform: uppercase;
 }
+
+p {
+    color: darkslategray;
+    font-family: serif;
+}
