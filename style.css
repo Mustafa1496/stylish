@@ -16,3 +16,9 @@ p {
     font-family: serif;
     font-size: larger;
 }
+
+.info {
+    font-size: larger;
+    background-color: aqua; 
+    font-family: 'Times New Roman', Times, serif; 
+}
